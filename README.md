@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mrkml-spkta
-- 👀 I’m Data Engineering focus on Robotics and AI
+- 👀 I’m Data Engineer focus on Robotics and AI
 - 🌱 I build and extend data platforms and data pipelines for our customers and so much more to encapuslate the features of AI
 
 
